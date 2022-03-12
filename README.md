@@ -1,20 +1,20 @@
-# AlgoAlgo
+# AlgoAlgo - Swift
 
-## **¸ñÀû** : _µ¿·áÇÐ½ÀÀ» ÀÌ¿ëÇØ ±ÔÄ¢ÀûÀ¸·Î ¾Ë°í¸®ÁòÀ» ÇØ°áÇÏÀÚ!_
+## **ëª©ì ** : _ë™ë£Œí•™ìŠµì„ ì´ìš©í•´ ê·œì¹™ì ìœ¼ë¡œ ì•Œê³ ë¦¬ì¦˜ì„ í•´ê²°í•˜ìž!_
 
 ## 1. Common Rules
 
-### **_¹®Á¦Ç®ÀÌ_**
+### **_ë¬¸ì œí’€ì´_**
 
--   °°ÀÌ Ç®°í ½ÍÀº ¹®Á¦¸¦ ÀÌ½´·Î »ý¼º.
--   ±ÇÀå µÇ´Â ¹æ¹ýÀº discussions »ý¼º ÈÄ¿¡ ÀÌÀ¯ »ý¼º, ±×¸®°í ÅäÀÇ´Â µð½ºÄ¿¼ÇÆäÀÌÁö¿¡¼­
--   prÀº `main` branch·Î `¹®Á¦ÀÌ¸§¶ç¾î¾²±â¾øÀÌÇÑ±Û·Î/[intra_name].js`·Î ºÎÅ¹µå¸³´Ï´Ù.
+-   ê°™ì´ í’€ê³  ì‹¶ì€ ë¬¸ì œë¥¼ ì´ìŠˆë¡œ ìƒì„±.
+-   ê¶Œìž¥ ë˜ëŠ” ë°©ë²•ì€ discussions ìƒì„± í›„ì— ì´ìœ  ìƒì„±, ê·¸ë¦¬ê³  í† ì˜ëŠ” ë””ìŠ¤ì»¤ì…˜íŽ˜ì´ì§€ì—ì„œ
+-   prì€ `main` branchë¡œ `ë¬¸ì œì´ë¦„ë„ì–´ì“°ê¸°ì—†ì´í•œê¸€ë¡œ/[intra_name].js`ë¡œ ë¶€íƒë“œë¦½ë‹ˆë‹¤.
 
 ### **_git flow_**
 
 1. `git clone`
-2. Àû´çÇÑ ÀÌ¸§ÀÇ `branch` »ý¼º
-3. `¹®Á¦ÀÌ¸§¶ç¾î¾²±â¾øÀÌÇÑ±Û·Î/[intra_name].js` °æ·Î·Î ÆÄÀÏÀ» »ý¼º ÈÄ Ç®ÀÌ
-4. ¿ø°ÝÀ¸·Î push ÈÄ¿¡ githubÆäÀÌÁö¿¡¼­ `main`ºê·£Ä¡·Î pr»ý¼º
-5. °ü·Ã issue¿Í linking & reveiw request
-6. merge ½Ã±â ¹× ÀÌ½´ Á¾·á ½Ã±â´Â ÃßÈÄ Á¶À².
+2. ì ë‹¹í•œ ì´ë¦„ì˜ `branch` ìƒì„±
+3. `ë¬¸ì œì´ë¦„ë„ì–´ì“°ê¸°ì—†ì´í•œê¸€ë¡œ/[intra_name].js` ê²½ë¡œë¡œ íŒŒì¼ì„ ìƒì„± í›„ í’€ì´
+4. ì›ê²©ìœ¼ë¡œ push í›„ì— githubíŽ˜ì´ì§€ì—ì„œ `main`ë¸Œëžœì¹˜ë¡œ prìƒì„±
+5. ê´€ë ¨ issueì™€ linking & reveiw request
+6. merge ì‹œê¸° ë° ì´ìŠˆ ì¢…ë£Œ ì‹œê¸°ëŠ” ì¶”í›„ ì¡°ìœ¨.
